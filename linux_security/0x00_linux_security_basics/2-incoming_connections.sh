@@ -1,2 +1,2 @@
 #!/bin/bash
-ufw allow in 80/tcp
+sudo ufw allow in 80/tcp
